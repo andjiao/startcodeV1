@@ -1,7 +1,12 @@
 import { encode } from "../utils.js"
 
 
-export function setUpPage3Handlers() {
+
+
+
+
+
+/*export function setUpPage3Handlers() {
   document.getElementById("btn-get-all").onclick = getAllUsers
 }
 
@@ -24,4 +29,4 @@ export function getAllUsers() {
     .catch(err => console.error("UPPPPPS: " + err))
     .finally(e => console.log("Finally Done"))
 
-}
+}*/
